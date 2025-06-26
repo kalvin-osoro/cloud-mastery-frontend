@@ -147,5 +147,6 @@ Privacy: [Privacy Policy](https://pawait.africa/privacy)
 ---
 
 ### 🌟 Ready to Master the Cloud?
+### 🌟 Ready to Master the Cloud
 
 _Yes you are. Let’s build something awesome together._ 🚀
